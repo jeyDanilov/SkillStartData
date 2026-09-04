@@ -1,3 +1,5 @@
+These JSON files are used as mock API endpoints for the SkillStart Android app during development.
+ 
  Purpose
 Provide a simple, static API endpoint for testing and development
 
